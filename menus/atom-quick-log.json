@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-quick-log",
+        "command": "atom-quick-log:log"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-quick-log",
+          "submenu": [
+            {
+              "label": "Insert Log Statement",
+              "command": "atom-quick-log:log"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

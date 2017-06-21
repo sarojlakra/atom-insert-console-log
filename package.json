@@ -1,0 +1,19 @@
+{
+  "name": "atom-quick-log",
+  "main": "./lib/atom-quick-log",
+  "version": "0.0.1",
+  "author": "Josh Hawkins <hawkinswritescode@gmail.com>",
+  "description": "Quickly insert console.log statements around your selection",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-quick-log:log"
+  },
+  "repository": "https://github.com/atom/atom-quick-log",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
