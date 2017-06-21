@@ -1,4 +1,4 @@
-# atom-quick-log package
+# atom-insert-console-log package
 
 Quickly insert console.log statements around your selection
 
