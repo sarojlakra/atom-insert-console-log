@@ -8,4 +8,4 @@ Quickly insert console.log statements around your selection by hitting <keyboard
 
 ## Supported languages
 
-Currently, only JavaScript is supported. This is because the package is dumb and only inserts `console.log(${selection}); // ${selection}` right now. Yes, that's a semicolon. And you're gonna like it.
+Currently, only JavaScript is supported. This is because the package is dumb and only inserts `console.log(${selection});` right now. Yes, that's a semicolon. And you're gonna like it.
