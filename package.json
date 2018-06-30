@@ -1,14 +1,14 @@
 {
-  "name": "atom-insert-console-log",
+  "name": "insert-console-log",
   "main": "./lib/atom-insert-console-log",
   "version": "0.0.2",
   "author": "Josh Hawkins <hawkinswritescode@gmail.com>",
   "description": "Quickly insert console.log statements around your selection",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-insert-console-log:log"
+    "atom-workspace": "insert-console-log:log"
   },
-  "repository": "https://github.com/hawkins/atom-insert-console-log",
+  "repository": "https://github.com/sarojlakra/insert-console-log",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
